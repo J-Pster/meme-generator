@@ -1,0 +1,94 @@
+/* Classes Especiais */
+#meme-image-container {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  text-align: center;
+  overflow: hidden;
+  position: relative;
+  background-color: white;
+  width: 80%;
+}
+
+#meme-text {
+  color: white;
+  font-size: 30px;
+  text-shadow: 5px 5px 5px black;
+  z-index: 2;
+}
+
+#meme-image {
+  z-index: 1;
+}
+
+/* Classes das Bordas */
+.padrao {
+  border: 1px solid black;
+}
+
+.fire {
+  border: 3px dashed red;
+}
+
+.water {
+  border: 5px double blue;
+}
+
+.earth {
+  border: 6px groove green;
+}
+
+#fire {
+  background-color: red;
+  color: white;
+}
+
+#water {
+  background-color: blue;
+  color: white;
+}
+
+#earth {
+  background-color: green;
+  color: white;
+}
+
+/* Classes das Imagens */
+#meme-container {
+  margin-top: 10px;
+}
+
+.meme-block {
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: inline-block;
+  padding: 40px;
+}
+
+#meme-1 {
+  background-image: url('imgs/meme1.png');
+}
+
+#meme-2 {
+  background-image: url('imgs/meme2.png');
+}
+
+#meme-3 {
+  background-image: url('imgs/meme3.png');
+}
+
+#meme-4 {
+  background-image: url('imgs/meme4.png');
+}
+
+/* Classes de Estilo */
+.larguraMaxima {
+  width: 100%;
+  height: 100%;
+}
+
+.centraliza {
+  position: absolute;
+  top: 70%;
+  left: 50%;
+  transform: translate(-50% , -50%);
+}
