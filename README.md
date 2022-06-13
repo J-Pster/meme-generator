@@ -1,9 +1,33 @@
 # Projeto Meme Generator [View/Ver](https://j-pster.github.io/meme-generator/)
 Este projeto foi feito durante o bloco de Fundamentos na [Trybe](https://www.betrybe.com/) por _[João Pedro Viana Freitas](https://www.linkedin.com/in/joaopster/)_ :rocket:
 
+---
+
+# Habilidades
+Neste projeto, verificamos que você é capaz de:
+
+  * Manipular o DOM.
+
+  * Manipular o Javascript.
+
+  * Manipular o CSS.
+
+---
+
+# Instruções para rodar o Projeto:
+
+1. Clone o repositório
+  * `git clone git@github.com:J-Pster/meme-generator.git`
+  * Entre na pasta do repositório que você acabou de clonar:
+    * `cd meme-generator`
+
+---
+
 ### Descrição
 
 Consiste em um site feito com HTML, CSS e JavaScript, aonde o usuário pode criar um "Meme", baseado nas imagens pré estabelecidas ou em imagens enviadas pelo Usuário.
+
+---
 
 ### Comentários
 - [ ] 1: Fazer a refatoração do código.
